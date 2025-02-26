@@ -1,4 +1,4 @@
-## ABOUT ME :![About Me](https://img.shields.io/badge/About%20Me-%23000000.svg?style=for-the-badge&logo=info&logoColor=white)
+![About Me](https://img.shields.io/badge/About%20Me-%23000000.svg?style=for-the-badge&logo=info&logoColor=white)
 ## HELLO, IAM KAPIL PATEL
 
 
