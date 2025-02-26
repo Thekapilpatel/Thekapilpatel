@@ -37,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Terminal](https://img.shields.io/badge/terminal-%23000000.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kapilpatel&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=thekapilpatel&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thekapilpatel&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekapilpatel&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
